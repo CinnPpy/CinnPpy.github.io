@@ -1,0 +1,1 @@
+to import a chart, place it in this folder, and put its filename in the charts.conf file. 
